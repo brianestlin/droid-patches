@@ -9,6 +9,14 @@ A dual-mode patch: a **Harmonizer** and a 4-channel **Quantizer** that share one
 
 ---
 
+## Panel Layout
+
+![DROID panel: Master, P2B8, and two E4 encoder banks labelled for this patch](harmony-generator-v2-E4s-seq-panel.png)
+
+FORGE faceplate view — Master (sequencer display, I1–I8 and O1–O8 jack labels), P2B8 (voicing + density pots and the 8 algorithm buttons), and the two E4 encoder banks (roots on E4 #1, chord types on E4 #2).
+
+---
+
 ## Inputs
 
 | Jack | Harmonizer mode | Quantizer mode |
